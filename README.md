@@ -1,7 +1,7 @@
 ### 😎 Nice to see you here 👋
 
 
-**I'm Ashraful, still learning front end developing 🧑‍💻️  from 🇧🇩 Rajshahi, Bangladesh. love to learning!
+**I'm Ashraful**, still learning front end developing 🧑‍💻️  from 🇧🇩 Rajshahi, Bangladesh. love to learning!
 
 Here are some ideas to get you started:
 
