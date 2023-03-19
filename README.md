@@ -1,7 +1,7 @@
 ### 😎 Nice to see you here 👋
 
 
-**Ashraful34/Ashraful34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I'm Ashraful, still learning front end developing 🧑‍💻️  from 🇧🇩 Rajshahi, Bangladesh. love to learning!
 
 Here are some ideas to get you started:
 
