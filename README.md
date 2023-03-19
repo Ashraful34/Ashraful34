@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Ashraful Haque.
 #### 😎 Nice to see you here 👋
 
+learning front end developing🧑‍💻️ developer from 🇧🇩  Rajshahi, Bangladesh.
 Skills:  WORDPRESS/HTML / CSS/JS
 
 - 🔭 I’m currently working on javascript 
