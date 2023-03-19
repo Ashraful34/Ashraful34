@@ -3,7 +3,7 @@
 
 **I'm Ashraful**, still learning front end developing 🧑‍💻️  from 🇧🇩 Rajshahi, Bangladesh. love to learning!
 
-(https://www.instagram.com/ashraful.ig/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/Ashraful.Eru/)
 
 Here are some ideas to get you started:
 
