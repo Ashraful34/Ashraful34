@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ashraful Haque
+### Hi there 👋, I'm Ashraful Haque.
 #### 😎 Nice to see you here 👋
 
 Skills:  WORDPRESS/HTML / CSS/JS
