@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **wordpress,html, css, js, machine learning**
 
-- 📫 How to reach me: **ashrafulvu19@gmail.com**
+- 📫 How to reach me: **just direct message me through social media**
 
 - ⚡ Fun fact **don't forget to boost yourself buddy!!**
 
