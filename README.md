@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning : **javascript**
 
-- 💬 Ask me about **wordpress,html, css, js, machine learning**
+- <!--💬 Ask me about **wordpress,html, css, js, machine learning**-->
 
 - 📫 How to reach me: **just direct message me through social media**
 
